@@ -1,0 +1,850 @@
+[
+  {
+    "name": "Сбербанк",
+    "inn": "7707083893",
+    "site": "sberbank.ru",
+    "category": "bank",
+    "clients_millions": 110,
+    "client_source": "Годовой отчёт 2023"
+  },
+  {
+    "name": "Альфа-Банк",
+    "inn": "7728168971",
+    "site": "alfabank.ru",
+    "category": "bank",
+    "clients_millions": 22,
+    "client_source": "Пресс-релиз 2024"
+  },
+  {
+    "name": "Тинькофф Банк",
+    "inn": "7710140679",
+    "site": "tinkoff.ru",
+    "category": "bank",
+    "clients_millions": 30,
+    "client_source": "Пресс-релиз 2024"
+  },
+  {
+    "name": "ВТБ",
+    "inn": "7702070139",
+    "site": "vtb.ru",
+    "category": "bank",
+    "clients_millions": 15,
+    "client_source": "Отчёт 2023"
+  },
+  {
+    "name": "Газпромбанк",
+    "inn": "7736050003",
+    "site": "gazprombank.ru",
+    "category": "bank",
+    "clients_millions": 8,
+    "client_source": "Отчётность"
+  },
+  {
+    "name": "Открытие",
+    "inn": "7706092528",
+    "site": "open.ru",
+    "category": "bank",
+    "clients_millions": 6,
+    "client_source": "Финансовые отчёты"
+  },
+  {
+    "name": "Совкомбанк",
+    "inn": "6671044212",
+    "site": "sovcombank.ru",
+    "category": "bank",
+    "clients_millions": 13,
+    "client_source": "Отчётность"
+  },
+  {
+    "name": "Россельхозбанк",
+    "inn": "7725114488",
+    "site": "rshb.ru",
+    "category": "bank",
+    "clients_millions": 9,
+    "client_source": "Годовой отчёт"
+  },
+  {
+    "name": "Московский Кредитный Банк",
+    "inn": "7734202860",
+    "site": "mkb.ru",
+    "category": "bank",
+    "clients_millions": 7,
+    "client_source": "Отчётность"
+  },
+  {
+    "name": "Промсвязьбанк",
+    "inn": "7744000912",
+    "site": "psbank.ru",
+    "category": "bank",
+    "clients_millions": 5,
+    "client_source": "Финансовые показатели"
+  },
+  {
+    "name": "Райффайзенбанк",
+    "inn": "7744000302",
+    "site": "raiffeisen.ru",
+    "category": "bank",
+    "clients_millions": 4,
+    "client_source": "Отчёт по РФ"
+  },
+  {
+    "name": "ЮниКредит Банк",
+    "inn": "7744001497",
+    "site": "unicreditbank.ru",
+    "category": "bank",
+    "clients_millions": 3,
+    "client_source": "Данные по России"
+  },
+  {
+    "name": "Сетелем Банк",
+    "inn": "7730180682",
+    "site": "setelem.ru",
+    "category": "bank",
+    "clients_millions": 2,
+    "client_source": "Автокредитный портфель"
+  },
+  {
+    "name": "Почта Банк",
+    "inn": "7714037218",
+    "site": "pochtabank.ru",
+    "category": "bank",
+    "clients_millions": 10,
+    "client_source": "Отчётность"
+  },
+  {
+    "name": "МТС Банк",
+    "inn": "7730233988",
+    "site": "mtsbank.ru",
+    "category": "bank",
+    "clients_millions": 8,
+    "client_source": "Интегрированный отчёт"
+  },
+  {
+    "name": "Хоум Кредит Банк",
+    "inn": "7708313893",
+    "site": "homecredit.ru",
+    "category": "bank",
+    "clients_millions": 11,
+    "client_source": "Годовой отчёт"
+  },
+  {
+    "name": "Русский Стандарт",
+    "inn": "7712043436",
+    "site": "rsb.ru",
+    "category": "bank",
+    "clients_millions": 6,
+    "client_source": "Кредитный портфель"
+  },
+  {
+    "name": "АК БАРС Банк",
+    "inn": "1653001805",
+    "site": "akbars.ru",
+    "category": "bank",
+    "clients_millions": 5,
+    "client_source": "Региональные данные"
+  },
+  {
+    "name": "Банк Зенит",
+    "inn": "7729405872",
+    "site": "zenit.ru",
+    "category": "bank",
+    "clients_millions": 4,
+    "client_source": "Отчётность"
+  },
+  {
+    "name": "Росбанк",
+    "inn": "7730060164",
+    "site": "rosbank.ru",
+    "category": "bank",
+    "clients_millions": 3,
+    "client_source": "Данные Societe Generale"
+  },
+  {
+    "name": "МТС",
+    "inn": "7740000076",
+    "site": "mts.ru",
+    "category": "telecom",
+    "clients_millions": 86,
+    "client_source": "Отчёт 2023"
+  },
+  {
+    "name": "Билайн",
+    "inn": "7713076301",
+    "site": "beeline.ru",
+    "category": "telecom",
+    "clients_millions": 47,
+    "client_source": "Данные VimpelCom"
+  },
+  {
+    "name": "МегаФон",
+    "inn": "7812014560",
+    "site": "megafon.ru",
+    "category": "telecom",
+    "clients_millions": 72,
+    "client_source": "Финансовые отчёты"
+  },
+  {
+    "name": "Ростелеком",
+    "inn": "7707049388",
+    "site": "rostelecom.ru",
+    "category": "telecom",
+    "clients_millions": 55,
+    "client_source": "Интегрированный отчёт"
+  },
+  {
+    "name": "Tele2",
+    "inn": "7728767426",
+    "site": "tele2.ru",
+    "category": "telecom",
+    "clients_millions": 45,
+    "client_source": "Отчёт Tele2"
+  },
+  {
+    "name": "Yota",
+    "inn": "7714698320",
+    "site": "yota.ru",
+    "category": "telecom",
+    "clients_millions": 15,
+    "client_source": "Как часть МегаФон"
+  },
+  {
+    "name": "ТТК",
+    "inn": "7702037683",
+    "site": "ttk.ru",
+    "category": "telecom",
+    "clients_millions": 12,
+    "client_source": "Региональный оператор"
+  },
+  {
+    "name": "ЭР-Телеком",
+    "inn": "6658505408",
+    "site": "ertelecom.ru",
+    "category": "telecom",
+    "clients_millions": 8,
+    "client_source": "Домашний интернет"
+  },
+  {
+    "name": "Wildberries",
+    "inn": "2312159380",
+    "site": "wildberries.ru",
+    "category": "marketplace",
+    "clients_millions": 130,
+    "client_source": "Статистика 2024"
+  },
+  {
+    "name": "Ozon",
+    "inn": "7726339704",
+    "site": "ozon.ru",
+    "category": "marketplace",
+    "clients_millions": 32,
+    "client_source": "Отчёт Q4 2023"
+  },
+  {
+    "name": "Яндекс Маркет",
+    "inn": "7736207543",
+    "site": "market.yandex.ru",
+    "category": "marketplace",
+    "clients_millions": 25,
+    "client_source": "Яндекс Data"
+  },
+  {
+    "name": "СберМегаМаркет",
+    "inn": "7704217370",
+    "site": "sbermegamarket.ru",
+    "category": "marketplace",
+    "clients_millions": 18,
+    "client_source": "Пресс-релиз"
+  },
+  {
+    "name": "Авито",
+    "inn": "6164221285",
+    "site": "avito.ru",
+    "category": "marketplace",
+    "clients_millions": 42,
+    "client_source": "Отчётность"
+  },
+  {
+    "name": "Юла",
+    "inn": "7733718924",
+    "site": "youla.ru",
+    "category": "marketplace",
+    "clients_millions": 15,
+    "client_source": "Аудитория Avito"
+  },
+  {
+    "name": "Lamoda",
+    "inn": "7717701273",
+    "site": "lamoda.ru",
+    "category": "marketplace",
+    "clients_millions": 10,
+    "client_source": "Fashion-ритейл"
+  },
+  {
+    "name": "Goods",
+    "inn": "7709736444",
+    "site": "goods.ru",
+    "category": "marketplace",
+    "clients_millions": 7,
+    "client_source": "X5 Retail Group"
+  },
+  {
+    "name": "1С",
+    "inn": "7725563778",
+    "site": "1c.ru",
+    "category": "it",
+    "clients_millions": 1.5,
+    "client_source": "Корпоративные клиенты"
+  },
+  {
+    "name": "Яндекс",
+    "inn": "7736207543",
+    "site": "yandex.ru",
+    "category": "it",
+    "clients_millions": 60,
+    "client_source": "Ежемесячная аудитория"
+  },
+  {
+    "name": "VK",
+    "inn": "7736050003",
+    "site": "vk.com",
+    "category": "it",
+    "clients_millions": 95,
+    "client_source": "Ежемесячные пользователи"
+  },
+  {
+    "name": "Selectel",
+    "inn": "7811632778",
+    "site": "selectel.ru",
+    "category": "it",
+    "clients_millions": 0.02,
+    "client_source": "B2B хостинг"
+  },
+  {
+    "name": "МойСклад",
+    "inn": "7727735258",
+    "site": "moysklad.ru",
+    "category": "it",
+    "clients_millions": 0.3,
+    "client_source": "ERP система"
+  },
+  {
+    "name": "Контур",
+    "inn": "6663003127",
+    "site": "kontur.ru",
+    "category": "it",
+    "clients_millions": 1.2,
+    "client_source": "Бухгалтерские сервисы"
+  },
+  {
+    "name": "Cloud.ru",
+    "inn": "7736252869",
+    "site": "cloud.ru",
+    "category": "it",
+    "clients_millions": 0.05,
+    "client_source": "Облачная платформа"
+  },
+  {
+    "name": "Яндекс.Такси",
+    "inn": "7707049388",
+    "site": "taxi.yandex.ru",
+    "category": "delivery",
+    "clients_millions": 50,
+    "client_source": "Активные пользователи"
+  },
+  {
+    "name": "Яндекс.Еда",
+    "inn": "7736207543",
+    "site": "eda.yandex.ru",
+    "category": "delivery",
+    "clients_millions": 12,
+    "client_source": "Пресс-релиз"
+  },
+  {
+    "name": "Delivery Club",
+    "inn": "9709038316",
+    "site": "delivery-club.ru",
+    "category": "delivery",
+    "clients_millions": 8,
+    "client_source": "Пресс-релиз"
+  },
+  {
+    "name": "Самокат",
+    "inn": "7743801468",
+    "site": "samokat.ru",
+    "category": "delivery",
+    "clients_millions": 15,
+    "client_source": "Официальные данные"
+  },
+  {
+    "name": "СберМаркет",
+    "inn": "7724335553",
+    "site": "sbermarket.ru",
+    "category": "delivery",
+    "clients_millions": 7,
+    "client_source": "Доставка продуктов"
+  },
+  {
+    "name": "ВкусВилл",
+    "inn": "7715749178",
+    "site": "vkusvill.ru",
+    "category": "delivery",
+    "clients_millions": 5,
+    "client_source": "Отчётность"
+  },
+  {
+    "name": "Перекресток",
+    "inn": "7725540305",
+    "site": "perekrestok.ru",
+    "category": "delivery",
+    "clients_millions": 8,
+    "client_source": "Сеть магазинов"
+  },
+  {
+    "name": "Ингосстрах",
+    "inn": "7714016366",
+    "site": "ingos.ru",
+    "category": "insurance",
+    "clients_millions": 20,
+    "client_source": "Страховой портфель"
+  },
+  {
+    "name": "РЕСО-Гарантия",
+    "inn": "7725027270",
+    "site": "reso.ru",
+    "category": "insurance",
+    "clients_millions": 15,
+    "client_source": "Годовой отчёт"
+  },
+  {
+    "name": "АльфаСтрахование",
+    "inn": "7728012297",
+    "site": "alfastrah.ru",
+    "category": "insurance",
+    "clients_millions": 12,
+    "client_source": "Данные Альфа-Групп"
+  },
+  {
+    "name": "Согаз",
+    "inn": "7736034785",
+    "site": "sogaz.ru",
+    "category": "insurance",
+    "clients_millions": 25,
+    "client_source": "Госстрахование"
+  },
+  {
+    "name": "Аэрофлот",
+    "inn": "7712040126",
+    "site": "aeroflot.ru",
+    "category": "transport",
+    "clients_millions": 40,
+    "client_source": "Пассажиропоток в год"
+  },
+  {
+    "name": "РЖД",
+    "inn": "7708503727",
+    "site": "rzd.ru",
+    "category": "transport",
+    "clients_millions": 1100,
+    "client_source": "Пассажиропоток в год"
+  },
+  {
+    "name": "S7 Airlines",
+    "inn": "5408014978",
+    "site": "s7.ru",
+    "category": "transport",
+    "clients_millions": 14,
+    "client_source": "Авиаперевозки"
+  },
+  {
+    "name": "Колл-центр Контакт",
+    "inn": "7728563421",
+    "site": "callkontakt.ru",
+    "category": "callcenter",
+    "clients_millions": 0.5,
+    "client_source": "Обслуживает клиентов"
+  },
+  {
+    "name": "Calltouch",
+    "inn": "7811632778",
+    "site": "calltouch.ru",
+    "category": "callcenter",
+    "clients_millions": 0.03,
+    "client_source": "B2B сервис"
+  },
+  {
+    "name": "Манго Телеком",
+    "inn": "2315088490",
+    "site": "mango-office.ru",
+    "category": "callcenter",
+    "clients_millions": 0.08,
+    "client_source": "Виртуальная АТС"
+  },
+  {
+    "name": "Teleperformance Россия",
+    "inn": "7727525537",
+    "site": "teleperformance.com/ru-ru/",
+    "category": "callcenter",
+    "clients_millions": 0,  
+    "client_source": "Крупнейший аутсорсинговый кол-центр в РФ"
+  },
+  {
+    "name": "СберКорус",
+    "inn": "7704217370",
+    "site": "sbercorus.ru",
+    "category": "callcenter",
+    "clients_millions": 110, 
+    "client_source": "Кол-центр Сбера"
+  },
+  {
+    "name": "DNS",
+    "inn": "5257033214",
+    "site": "dns-shop.ru",
+    "category": "marketplace",
+    "clients_millions": 25,
+    "client_source": "Крупнейший ритейлер электроники"
+  },
+  {
+    "name": "Ситилинк",
+    "inn": "7727563778",
+    "site": "citilink.ru",
+    "category": "marketplace",
+    "clients_millions": 18,
+    "client_source": "Онлайн-продажи электроники"
+  },
+  {
+    "name": "М.Видео",
+    "inn": "7723540604",
+    "site": "mvideo.ru",
+    "category": "marketplace",
+    "clients_millions": 30,
+    "client_source": "Сеть магазинов + онлайн"
+  },
+  {
+    "name": "Эльдорадо",
+    "inn": "7727545550",
+    "site": "eldorado.ru",
+    "category": "marketplace",
+    "clients_millions": 22,
+    "client_source": "Бытовая техника и электроника"
+  },
+  {
+    "name": "2ГИС",
+    "inn": "5406798002",
+    "site": "2gis.ru",
+    "category": "it",
+    "clients_millions": 45,
+    "client_source": "Картографический сервис"
+  },
+  {
+    "name": "СберСтрахование",
+    "inn": "7707049388",
+    "site": "sberinsurance.ru",
+    "category": "insurance",
+    "clients_millions": 40,
+    "client_source": "Страховая дочка Сбера"
+  },
+  {
+    "name": "ВТБ Страхование",
+    "inn": "7702070139",
+    "site": "vtbins.ru",
+    "category": "insurance",
+    "clients_millions": 15,
+    "client_source": "Страховая ВТБ"
+  },
+  {
+    "name": "Ренессанс Страхование",
+    "inn": "7702070139",
+    "site": "renins.com",
+    "category": "insurance",
+    "clients_millions": 12,
+    "client_source": "Автострахование"
+  },
+  {
+    "name": "Пятёрочка",
+    "inn": "7728311453",
+    "site": "5ka.ru",
+    "category": "retail",
+    "clients_millions": 60,
+    "client_source": "Сеть магазинов X5 Retail"
+  },
+  {
+    "name": "Магнит",
+    "inn": "2310047199",
+    "site": "magnit.ru",
+    "category": "retail",
+    "clients_millions": 50,
+    "client_source": "Крупнейшая розничная сеть"
+  },
+  {
+    "name": "Вкусно — и точка",
+    "inn": "7704217370",
+    "site": "vkusnoitochka.ru",
+    "category": "restaurant",
+    "clients_millions": 50,
+    "client_source": "Сеть 800+ ресторанов"
+  },
+  {
+    "name": "KFC Россия",
+    "inn": "7727563778",
+    "site": "kfc.ru",
+    "category": "restaurant",
+    "clients_millions": 40,
+    "client_source": "Сеть 1000+ ресторанов"
+  },
+  {
+    "name": "Burger King Россия",
+    "inn": "7728563778",
+    "site": "burgerking.ru",
+    "category": "restaurant",
+    "clients_millions": 25,
+    "client_source": "Сеть 600+ ресторанов"
+  },
+  {
+    "name": "Subway Россия",
+    "inn": "7729563778",
+    "site": "subway.ru",
+    "category": "restaurant",
+    "clients_millions": 15,
+    "client_source": "Сеть 500+ ресторанов"
+  },
+  {
+    "name": "Teleperformance Россия",
+    "inn": "7727525537",
+    "site": "teleperformance.ru",
+    "category": "callcenter",
+    "clients_millions": 0.1,
+    "client_source": "Аутсорсинговый кол-центр, 5000+ операторов"
+  },
+  {
+    "name": "СберКорус",
+    "inn": "7704217370",
+    "site": "sbercorus.ru",
+    "category": "callcenter",
+    "clients_millions": 110,
+    "client_source": "Обслуживает клиентов Сбера"
+  },
+  {
+    "name": "Контакт-центр Тенет",
+    "inn": "7728563421",
+    "site": "tenet.ru",
+    "category": "callcenter",
+    "clients_millions": 5,
+    "client_source": "Аутсорсинговый кол-центр"
+  },
+  {
+    "name": "Альфа-Консалт",
+    "inn": "7728168971",
+    "site": "alfaconsalt.ru",
+    "category": "callcenter",
+    "clients_millions": 22,
+    "client_source": "Кол-центр Альфа-Банка"
+  },
+  {
+    "name": "DNS",
+    "inn": "5257033214",
+    "site": "dns-shop.ru",
+    "category": "retail",
+    "clients_millions": 25,
+    "client_source": "Крупнейший ритейлер электроники"
+  },
+  {
+    "name": "Ситилинк",
+    "inn": "7727563778",
+    "site": "citilink.ru",
+    "category": "retail",
+    "clients_millions": 18,
+    "client_source": "Онлайн-продажи электроники"
+  },
+  {
+    "name": "М.Видео",
+    "inn": "7723540604",
+    "site": "mvideo.ru",
+    "category": "retail",
+    "clients_millions": 30,
+    "client_source": "Сеть магазинов + онлайн"
+  },
+  {
+    "name": "Эльдорадо",
+    "inn": "7727545550",
+    "site": "eldorado.ru",
+    "category": "retail",
+    "clients_millions": 22,
+    "client_source": "Бытовая техника и электроника"
+  },
+  {
+    "name": "М.Видео-Эльдорадо",
+    "inn": "7727545550",
+    "site": "mvideo.ru",
+    "category": "retail",
+    "clients_millions": 35,
+    "client_source": "Объединённая сеть"
+  },
+  {
+    "name": "2ГИС",
+    "inn": "5406798002",
+    "site": "2gis.ru",
+    "category": "it",
+    "clients_millions": 45,
+    "client_source": "Картографический сервис"
+  },
+  {
+    "name": "СберСтрахование",
+    "inn": "7707049388",
+    "site": "sberinsurance.ru",
+    "category": "insurance",
+    "clients_millions": 40,
+    "client_source": "Страховая дочка Сбера"
+  },
+  {
+    "name": "ВТБ Страхование",
+    "inn": "7702070139",
+    "site": "vtbins.ru",
+    "category": "insurance",
+    "clients_millions": 15,
+    "client_source": "Страховая ВТБ"
+  },
+  {
+    "name": "Ренессанс Страхование",
+    "inn": "7702070139",
+    "site": "renins.com",
+    "category": "insurance",
+    "clients_millions": 12,
+    "client_source": "Автострахование"
+  },
+  {
+    "name": "Пятёрочка",
+    "inn": "7728311453",
+    "site": "5ka.ru",
+    "category": "retail",
+    "clients_millions": 60,
+    "client_source": "Сеть магазинов X5 Retail"
+  },
+  {
+    "name": "Магнит",
+    "inn": "2310047199",
+    "site": "magnit.ru",
+    "category": "retail",
+    "clients_millions": 50,
+    "client_source": "Крупнейшая розничная сеть"
+  },
+  {
+    "name": "Лента",
+    "inn": "7825702026",
+    "site": "lenta.com",
+    "category": "retail",
+    "clients_millions": 20,
+    "client_source": "Сеть гипермаркетов"
+  },
+  {
+    "name": "Ашан",
+    "inn": "5024055647",
+    "site": "auchan.ru",
+    "category": "retail",
+    "clients_millions": 25,
+    "client_source": "Французская розничная сеть"
+  },
+  {
+    "name": "Metro Cash & Carry",
+    "inn": "7701271736",
+    "site": "metro-cc.ru",
+    "category": "retail",
+    "clients_millions": 8,
+    "client_source": "Оптовая торговля"
+  },
+  {
+    "name": "OBI Россия",
+    "inn": "7701271736",
+    "site": "obi.ru",
+    "category": "retail",
+    "clients_millions": 15,
+    "client_source": "Сеть магазинов для дома"
+  },
+  {
+    "name": "Леруа Мерлен",
+    "inn": "5024055647",
+    "site": "leroymerlin.ru",
+    "category": "retail",
+    "clients_millions": 30,
+    "client_source": "Строительные материалы"
+  },
+  {
+    "name": "IKEA Россия",
+    "inn": "5024055647",
+    "site": "ikea.com/ru/ru",
+    "category": "retail",
+    "clients_millions": 35,
+    "client_source": "Мебель и товары для дома"
+  },
+  {
+    "name": "Яндекс.Путешествия",
+    "inn": "7736207543",
+    "site": "travel.yandex.ru",
+    "category": "travel",
+    "clients_millions": 20,
+    "client_source": "Сервис бронирования"
+  },
+  {
+    "name": "Островок",
+    "inn": "7704250400",
+    "site": "ostrovok.ru",
+    "category": "travel",
+    "clients_millions": 15,
+    "client_source": "Онлайн-бронирование отелей"
+  },
+  {
+    "name": "OneTwoTrip",
+    "inn": "7704250400",
+    "site": "onetwotrip.com",
+    "category": "travel",
+    "clients_millions": 8,
+    "client_source": "Поиск авиабилетов"
+  },
+  {
+    "name": "Тинькофф Страхование",
+    "inn": "7710140679",
+    "site": "tinkoffinsurance.ru",
+    "category": "insurance",
+    "clients_millions": 10,
+    "client_source": "Страховая Тинькофф"
+  },
+  {
+    "name": "Тинькофф Путешествия",
+    "inn": "7710140679",
+    "site": "tinkoff.ru/travel",
+    "category": "travel",
+    "clients_millions": 8,
+    "client_source": "Туристический сервис Тинькофф"
+  },
+  {
+    "name": "Яндекс.Плюс",
+    "inn": "7736207543",
+    "site": "plus.yandex.ru",
+    "category": "it",
+    "clients_millions": 25,
+    "client_source": "Подписка Яндекс"
+  },
+  {
+    "name": "СберПрайм",
+    "inn": "7707083893",
+    "site": "sber.ru/prime",
+    "category": "it",
+    "clients_millions": 20,
+    "client_source": "Подписка Сбера"
+  },
+  {
+    "name": "КухняНаРайоне",
+    "inn": "7743801468",
+    "site": "kuhnjanarajone.ru",
+    "category": "delivery",
+    "clients_millions": 5,
+    "client_source": "Доставка еды"
+  },
+  {
+    "name": "Читай-город",
+    "inn": "7725540305",
+    "site": "chitai-gorod.ru",
+    "category": "retail",
+    "clients_millions": 10,
+    "client_source": "Сеть книжных магазинов"
+  }
+]
